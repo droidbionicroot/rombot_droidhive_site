@@ -21,6 +21,7 @@
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 	border-top: 1px solid black;
+	border-bottom: 1px solid black;
 }
 
 #nav ul li a {
@@ -119,29 +120,28 @@ body {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
-#content_page1 {
-	width: 700px;
-	height: auto;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 50px;
-}
-
-#content_page1 p {
-	padding: 10px;
-}
-
-#content_page1 p img {
-	padding-right: 5px;
-	padding-bottom: 50px;
-}
-
 img {
 	border-style: none;
 }
 
-#content_page1 h3 {
-	font-family: Times New Roman;
+#targa_downloads {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: auto;
+	background-color: #CCFFFF;
 }
+
+#targa_downloads h3 {
+	padding-top: 8px;
+}
+
+#targa_downloads ul {
+	list-style-type: none;
+}
+			
+
 
 
