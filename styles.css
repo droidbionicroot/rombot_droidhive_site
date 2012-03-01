@@ -1,5 +1,5 @@
 #container {
-	height: 750px;
+	height: 600px;
 	width: 800px;
 	background-color: #FFF;
 	margin-right: auto;
@@ -42,7 +42,7 @@
 }
 #leftnav {
 	width: 200px;
-	height: 588px;
+	height: 430px;
 	border-top-style: none;
 	float: left;
 	padding-left: 8px;
